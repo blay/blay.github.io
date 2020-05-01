@@ -1,38 +1,46 @@
 {% unless post.next %}
-<h3>{{ post.date | date: '%Y' }}</h3>
+</div><div class="container">
+		<div class="item"><h3>{{ post.date | date: '%Y' }}</h3></div>
 {% else %}
 {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
 {% if year != nyear %}
-<h3>{{ post.date | date: '%Y' }}</h3>
+</div><div class="container">
+		<div class="item"><h3>{{ post.date | date: '%Y' }}</h3></div>
 {% endif %}
 {% endunless %}
-<article>
-{% if post.link %}
+
+		{% if post.link %}
 <h2 class="link-post"><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+
 {% elsif  post.tags contains 'secret' %}
 <h2>| | | S E C R E T | | |</h2>
 {% else %}
+
 {% if post.tags contains 'tldr'  %}
-<div class="notice--warning">
+<div class="notice--warning item">
 <h2><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a></h2>
 <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </div>
+
 {% elsif post.tags contains 'meta'  %}
-<div class="notice--danger">
+<div class="notice--danger item">
 <h2><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a></h2>
 <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </div>
+
 {% elsif post.tags contains 'english'  %}
-<div class="notice--success">
+<div class="notice--success item">
 <h2><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a></h2>
 <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </div>
+
 {% else %}
-<div class="notice">
+<div class="notice item">
 <h2><a href="{{ post.url | remove_first:'/'}}" title="{{ post.title }}">{{ post.title }}</a></h2>
 <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </div>
+
 {% endif f%}
 {% endif %}
-</article>
+

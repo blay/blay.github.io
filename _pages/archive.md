@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 title: "Archive"
 permalink: /archive.html
 author_profile: false
@@ -13,8 +14,10 @@ sidebar:
 <div class="notice--success item">English Posts</div>
 </div>
 
+<div class="container">
 {% for post in site.posts  %}
 
 {% include tags.html %}
 
 {% endfor %}
+</div>
