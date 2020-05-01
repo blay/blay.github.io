@@ -18,7 +18,18 @@
 
 // Link styling
 
-//$link-color: #ff9c00;
+$link-color: #C4421A;
+$link-color-visited: #F98F45;
+$link-color-hover: #12908E;
+
+.greedy-nav a:hover {
+  color: #F98F45;
+}
+// Header Styling
+
+h1 {
+//  color: #bf692c;
+}
 
 @charset "utf-8";
 
