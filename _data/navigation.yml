@@ -9,3 +9,15 @@ main:
     url: /about.html
   - title: "Archive"
     url: /archive.html
+
+archive:
+  - title: Filter Posts
+    children:
+      - title: All Posts
+        url: /archive.html   
+      - title: Long Posts
+        url: /tldr.html   
+      - title: Meta Posts
+        url: /meta.html   
+      - title: English Posts
+        url: /english.html   

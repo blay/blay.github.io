@@ -6,6 +6,19 @@
 	background-color: #FFFF88;
 		}
 
+.container {
+  display: flex; /* or inline-flex */
+  flex-flow: row wrap;
+}
+
+.item {
+  flex-grow: 1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
