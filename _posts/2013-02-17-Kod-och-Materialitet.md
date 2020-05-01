@@ -1,7 +1,7 @@
 ---
 
 title: Kod och Materialitet
-tags: english swedish tldr
+tags: swedish tldr
 excerpt: Paper om datorkodens materialitet
 header:
  image: /assets/images/microprocessor_narrow.jpg

@@ -3,7 +3,7 @@ permalink: /about.html
 title: "About"
 ---
 
-I'm Magnus Eriksson, a sociologist based in Berlin and Gothenburg. Currently undertaking a PhD at Lund University, department of [Sociology of Law](http://www.soclaw.lu.se/magnus-eriksson), on the regulation of urban spaces by law and technology. I also have a position at the design research institute RISE Samhällstransformation. My background includes engagement with the politics and cultures of the internet both academically and as part of collectives such as Piratbyrån, Telecomix and FATLAB. Science and Technology Studies, Media Theory, Software Studies and Continental Philosophy also feature in my work.
+I'm Magnus Eriksson, a sociologist based in Berlin and Gothenburg. Currently undertaking a PhD at Lund University, department of [Sociology of Law](http://www.soclaw.lu.se/magnus-eriksson), on the regulation of urban spaces by law and technology. I also have a position at the design research institute [RISE Samhällstransformation](https://www.ri.se/en/magnus-eriksson). My background includes engagement with the politics and cultures of the internet both academically and as part of collectives such as [Piratbyrån](https://en.wikipedia.org/wiki/Piratbyr%C3%A5n), [Telecomix ](https://en.wikipedia.org/wiki/Telecomix) and [FATLAB](https://en.wikipedia.org/wiki/Free_Art_and_Technology_Lab). Science and Technology Studies, Media Theory, Software Studies and Continental Philosophy also feature in my work.
 
 I also sometimes teach at universities and am part of art exhibitions -- check my [CV](http://files.magnu.se/MagnusCV.pdf)
 

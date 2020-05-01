@@ -1,7 +1,7 @@
 ---
 
 title: "Heta linjen del två -- brytpunkten"
-tags: english swedish tldr
+tags: swedish tldr
 excerpt: Jag har en hypotes. Heta linjen-upploppet markerar den exakta övergången från disciplinsamhället till kontrollsamhället i Sverige. 
 ---
 

@@ -57,6 +57,7 @@ plugins:
 
 author:
   name   : "Magnus Eriksson"
+  home: "index.html"
   avatar : "/assets/images/bio-photo.jpg"
   bio: "Internet and beyond. Pre-modern, post-human, para-academic."
   links:
@@ -72,12 +73,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/monki"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/blay"
 
 defaults:
   # _posts

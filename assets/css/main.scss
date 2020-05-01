@@ -2,10 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-.tldr {
-	background-color: #FFFF88;
-		}
-
+// Flex archive
 .container {
   display: flex; /* or inline-flex */
   flex-flow: row wrap;
@@ -15,9 +12,13 @@
   flex-grow: 1;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.archive__item-title {
   margin: 0;
 }
+
+// Link styling
+
+//$link-color: #ff9c00;
 
 @charset "utf-8";
 

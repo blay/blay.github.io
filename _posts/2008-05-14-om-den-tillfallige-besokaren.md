@@ -1,8 +1,6 @@
 --- 
-
-
 title: "Om den tillfällige besökaren" 
-tags: english swedish tldr
+tags: swedish tldr
 date: 2008-05-14 23:28:22 +02:00 
 
 ---
