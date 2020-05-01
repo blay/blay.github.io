@@ -1,11 +1,10 @@
 ---
-layout: tag
+layout: archive
 title: "Archive"
 permalink: /archive.html
 author_profile: false
 sidebar:
   nav: "archive"
-taxonomy: tldr
 ---
 
 <div class="container">
