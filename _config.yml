@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  Internet and beyond. Pre-modern, post-human, para-academic. 
 twitter_username: monki
 github_username: blay
-minimal_mistakes_skin: "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+#minimal_mistakes_skin: "dark" 
 search: true
 
 # Build settings
