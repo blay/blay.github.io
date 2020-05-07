@@ -8,6 +8,8 @@ toc: true
 toc_sticky: true
 ---
 
+test
+
 # Försök i Sverige
 
 Hittills har två försök gjorts att lansera appar för frivillig symtomrapportering av Covid i Sverige men syfte att undersöka hur utbredd smittan är bland de som bara stannar hemma med symtom och inte kommer i kontakt med sjukvården.
