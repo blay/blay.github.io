@@ -1,7 +1,7 @@
 ---
 title: Svenska symtomrapporteringsappar
 excerpt: 'Kommentar till Svenska försök till appar för rapportering av symtom'
-tags: swedish tldr
+tags: swedish 
 header:
   image: /assets/images/fever_narrow.jpg
 toc: true

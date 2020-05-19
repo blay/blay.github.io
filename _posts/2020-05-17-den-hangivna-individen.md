@@ -1,7 +1,7 @@
 ---
 title: Den hängivna individen
 excerpt: 'Är hängivenhet och fanatism det samtida normaltillståndet?'
-tags: swedish tldr
+tags: swedish 
 header:
   image: /assets/images/stordalen_narrow.jpg
 toc: true
@@ -38,8 +38,8 @@ Senare i artikeln säger Wera också:
 
 Frågan är om inte den här omöjliga figuren är exakt det tillstånd som karatäriserar vår samtid -- att leva och känna en äkta sanning fullt ut, men som man någonstans vet självklart är ett godtyckligt val.
 
-Inte ens den som är uppvuxen i en religion som man fortfarande praktiserar och tror på kommer undan den här moderna paradoxen eftersom de med moderniteten reflexivitet givetvis förstår att det är troende i den religionen just för att de växt upp i och socialiserats in i den. Den moderna -- sociologiska -- självreflektionen om alla fasta identieters godtycklighet undkommer ingen.
+Inte ens den som är uppvuxen i en religion som man fortfarande praktiserar och tror på kommer undan den här moderna paradoxen eftersom de med modernitetens reflexivitet givetvis förstår att det är troende i den religionen just för att de växt upp i och socialiserats in i den. Den moderna -- sociologiska -- självreflektionen om alla fasta identieters godtycklighet undkommer ingen.
 
 Senkapitalismens pardoxala dialektik gör det möjligt att årets trend kan vara att vara rotad, hängiven och tillhörande för att sedan snart bytas ut mot ombytligt surfande nästa år. Men hey, det är väl bättre än att hålla post-politisk ironisk distans. För mycket självmedvetenhet sätter käppar i hjulet för en lite lagom dumnaiv handlingskraft.
 
-Det som är gemensamt för båda detta tillstånd är hur känslostyrda de är. Både att driva planlöst genom livet för att en inte känner tillräckligt starkt för något och att gå in för något fullt ut för att det känns som sanningen. Inget av tillstånden är drivet av ett externt normsystem som säger hur en bör eller måste leva livet. Även religionens normer blir ett subsystem av tillfällig normstyrning i ett annars normlöst totaltillstånd av valfrihet. Att leva inuti det subsystemet präglas senmoderniteten av den förträngande kamp som Wera talar om att varje dag förmå sig själv att välja Gud.
+Det som är gemensamt för båda detta tillstånd är hur känslostyrda de är. Både att driva planlöst genom livet för att en inte känner tillräckligt starkt för något och att gå in för något fullt ut för att det känns som sanningen. Inget av tillstånden är drivet av ett externt normsystem som säger hur en bör eller måste leva livet. Även religionens normer blir ett subsystem av tillfällig normstyrning i ett annars normlöst totaltillstånd av valfrihet. Att leva inuti det subsystemet präglas i senmoderniteten av den förträngande kamp som Wera talar om att varje dag förmå sig själv att välja Gud.
